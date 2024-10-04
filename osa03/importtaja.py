@@ -1,0 +1,3 @@
+import paaohjelma
+
+print('world')
