@@ -1,0 +1,5 @@
+Tervetuloa Python-kurssille! Löydät tältä sivustolta tiedot kurssin
+tiedotukseen, tukikanaviin, tehtäviin ja muihin aiheisiin liittyen.
+Kurssilla hyödynnetään Helsingin yliopiston mooc-kurssin oppimateriaaleja
+ja tehtäviä, mutta meillä on mooc-kurssista poikkeavat aikataulut,
+käytännön järjestelyt, kokeet sekä arviointikriteerit.
